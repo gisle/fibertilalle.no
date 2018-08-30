@@ -1,0 +1,6 @@
+baseURL = "http://fibertilalle.no/"
+languageCode = "nb-NO"
+title = "Fiber til alle på Skinstø"
+publishdir = "docs"
+theme = "beautifulhugo"
+DefaultContentLanguage = "nb"

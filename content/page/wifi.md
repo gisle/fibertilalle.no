@@ -8,7 +8,7 @@ Hvis man ikke opplever å få den ytelsen av nettet som man har avtalt
 er det ofte wifi delen som er flaskehalsen.
 
 Ruteren (modemboksen) som Homenet leveret støtter oppkobling
-via wifi, men den har begrenset rekkevidde. Såkalte mesh systemer
+via wifi, men den har begrenset rekkevidde. Såkalte mesh-systemer
 kan kjøpes hvis man vil dekke et større hus med god wifi i alle
 kriker og hjørner.
 

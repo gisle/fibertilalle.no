@@ -5,6 +5,12 @@ publishdir = "docs"
 theme = "beautifulhugo"
 DefaultContentLanguage = "nb"
 
+[Author]
+  name = "Styret"
+  website = "/page/foreningen/#styret"
+  email = "post@fibertilalle.no"
+  facebook = "groups/119825412031136/"
+
 [Params]
   homeTitle = "Fiber til alle" # Set a different text for the header on the home page
   subtitle = "Et kollektivt spleiselag for beboerne på Skinstø"

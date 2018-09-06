@@ -5,7 +5,7 @@ date: 2018-09-06T21:14:10+02:00
 
 ## § 1	Foreningens navn
 
-Foreningens navn er: Fiber til alle på Skinstø  og ble stiftet 26.09.2017
+Foreningens navn er _Fiber til alle på Skinstø_ og ble stiftet 26.09.2017.
 
 ## § 2	Formål
 
@@ -20,9 +20,9 @@ For å kunne bli medlem, må man være tilknyttet fiberanlegget og man må betal
 
 Den som eier en bolig som er knyttet til fiberanlegget er automatisk medlem – ett medlemskap pr tilknytning og maksimum ett medlemskap pr bolig.
 
-For å være medlem, må husstandens husvære være knyttet til kabelanlegget eiet av foreningen og betale kontingent fastsatt av interimsstyre/ styret/årsmøtet.
+For å være medlem, må husstandens husvære være knyttet til kabelanlegget eiet av foreningen og betale kontingent fastsatt av interimsstyre/styret/årsmøtet.
 
-Interimsstyret/Styret/årsmøtet fastsetter tilknytningsavgift og godkjenner nye medlemmer som ikke var tilknyttet på byggetidspunktet for nettet.
+Interimsstyret/styret/årsmøtet fastsetter tilknytningsavgift og godkjenner nye medlemmer som ikke var tilknyttet på byggetidspunktet for nettet.
 
 For å kunne motta tjenester over fiberanlegget må medlemmet betale fastsatt kontingent.
 
@@ -35,7 +35,8 @@ Alle medlemmer har stemmerett og er valgbare til tillitsverv i foreningen.
 Kontingenten fastsettes av årsmøtet og betales forskuddsvis. Styret/årsmøtet fastsetter tilknytningsavgift til nettet.
 
 Medlemmer som skylder kontingent har ikke stemmerett.
-Medlemmer som skylder kontingent for mer enn ett år kan av styret strykes som medlem av foreningen. Strykes et medlem, kan det ikke tas opp igjen før skyldig kontingent er be-talt.
+
+Medlemmer som skylder kontingent for mer enn ett år kan av styret strykes som medlem av foreningen. Strykes et medlem, kan det ikke tas opp igjen før skyldig kontingent er betalt.
 
 ## § 7	Tillitsvalgtes godtgjørelse
 
@@ -90,7 +91,7 @@ Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er
 
 ## § 12	Styret
 
-Foreningen ledes av et styre på 5 (inklusiv leder) medlemmer. Minimum tre - 3 styremedlemmer leder inkludert må man være medlem av foreningen. To av medlemmene kan være eksterne herunder styreleder.
+Foreningen ledes av et styre på 5 (inklusiv leder) medlemmer. Minimum tre styremedlemmer leder inkludert må man være medlem av foreningen. To av medlemmene kan være eksterne herunder styreleder.
 
 Styret er høyeste myndighet mellom årsmøtene. Styret sitter i to år. Styreleder og nestleder velges av årsmøtet. Årsmøtet velger to varamedlemmer til styret.
 

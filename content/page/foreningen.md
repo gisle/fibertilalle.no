@@ -13,12 +13,19 @@ med formålet:
 > gjøre fibertjenester tilgjengelig
 > for beboere på Skinstø.
 
+[Foreningens vedtekter](../vedtekter/)
+
 ## Kontaktadresse
 
     Fiber til alle på Skinstø
     c/o Eivind Lowzow
     Myrdalskogen 226
     5117 Ulset
+
+## Årsmøte
+
+Vi vil avholde første årsmøte etter at alle er blitt koblet opp.
+Sannsynligvis sent på året 2018.
 
 ## Styret
 

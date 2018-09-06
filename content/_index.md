@@ -20,4 +20,4 @@ Nå kommer det fiberbredbånd til alle på Skinstø.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc531a9dCk4oJumySyEEjdyYxIBqFLyv8CWr1J5WwNaz4dJlQ/viewform?c=0&amp;w=1&amp;usp=mail_form_link">Bestill tilknytning til fiberbredbånd </a>
 
-<a href="http://www.homenet.no/skinsto">Bestill Internet og TV fra HomeNet AS</a>
+<!-- <a href="http://www.homenet.no/skinsto">Bestill Internet og TV fra HomeNet AS</a> -->

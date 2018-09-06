@@ -24,10 +24,13 @@ Les mer i [foreningens vedtekter]({{< ref "vedtekter.md" >}}).
 
 ## Årsmøte
 
-Vi vil avholde første årsmøte etter at alle er blitt koblet opp.
-Sannsynligvis sent på året 2018.
+Vi vil avholde første årsmøte etter etableringsprosjektet er gjennomført og alle
+er blitt koblet opp. Sannsynligvis ved årskiftet 2018–2019.
 
 ## Styret
+
+Interimsstyret virker inntil første årsmøte er avholdt og har følgende
+medlemmer.
 
 Leder:
 

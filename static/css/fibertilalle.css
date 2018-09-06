@@ -1,3 +1,14 @@
+a.button {
+    display: block;
+    background: #373;
+    padding: 1em 2em;
+    text-align: center;
+    color: #efe;
+    font-size: 140%;
+    margin: 10px 50px;
+    border-radius: 10px;
+    border: 2px solid #050;
+}
 .theme-by {
     opacity: 0.5;
     font-size: 70%;

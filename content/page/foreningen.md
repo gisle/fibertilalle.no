@@ -13,7 +13,7 @@ med formålet:
 > gjøre fibertjenester tilgjengelig
 > for beboere på Skinstø.
 
-[Foreningens vedtekter]({{< ref "vedtekter.md" >}})
+Les mer i [foreningens vedtekter]({{< ref "vedtekter.md" >}}).
 
 ## Kontaktadresse
 

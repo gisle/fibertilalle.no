@@ -20,9 +20,14 @@ DefaultContentLanguage = "nb"
 [[menu.main]]
     name = "Om"
     url = "page/foreningen/"
-    weight = 3
+    weight = 40
+
+[[menu.main]]
+    name = "Homenet"
+    url = "page/homenet/"
+    weight = 20
 
 [[menu.main]]
     name = "Wifi"
     url = "page/wifi/"
-    weight = 3
+    weight = 30

@@ -1,13 +1,16 @@
 a.button {
     display: block;
     background: #373;
-    padding: 1em 2em;
+    padding: 0.4em;
+    max-width: 20em;
     text-align: center;
     color: #efe;
     font-size: 140%;
-    margin: 10px 50px;
+    margin: 10px auto;
     border-radius: 10px;
-    border: 2px solid #050;
+    border: 1px solid #363;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .theme-by {
     opacity: 0.5;

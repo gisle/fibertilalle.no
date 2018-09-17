@@ -16,3 +16,15 @@ a.button {
     opacity: 0.5;
     font-size: 70%;
 }
+
+.navbar-custom .avatar-container  .avatar-img-border {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+}
+
+@media only screen and (min-width: 768px) {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+}

@@ -19,7 +19,7 @@ leverandør hvis det er fordelaktig.
 
 Tjenestene som HomeNet idag kan tilby over fibernettet er:
 
-* Internett-aksess (100, 500 eller 1000 Mbit/s) levert til router-boks[^router] i boligen
+* Internett-aksess (100, 500 eller 1000 Mbit/s) levert til router-boks[^router] i boligen og wifi-boks[^wifi]
 * TV-pakker og bokser fra [RiksTV](https://www.rikstv.no) eller [Viasat](https://www.viasat.no)
 
 HomeNet har laget en egen side med mer [informasjon
@@ -28,3 +28,4 @@ og priser for oss](https://homenet.no/skinsto).
 
 [^fiberlaget]: Foreningen _Fiber til alle på Skinstø_
 [^router]: [Genexis Platinum 6840](https://www.google.com/search?q=Genexis+Platinum+6840)
+[^wifi]: [AirTies Air 4920](https://www.google.com/search?q=airties+air+4920)

@@ -15,6 +15,8 @@ DefaultContentLanguage = "nb"
   homeTitle = "Fiber til alle" # Set a different text for the header on the home page
   subtitle = "Et kollektivt spleiselag for beboerne på Skinstø"
   logo = "img/logo.svg"
+  mainSections = ["post"]
+  hideAuthor = true
   #favicon = "img/favicon.ico"
 
 [[menu.main]]

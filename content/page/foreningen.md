@@ -1,6 +1,6 @@
 ---
 title: "Om foreningen"
-date: 2018-09-05T18:38:40+02:00
+date: 2019-09-17
 ---
 
 Foreningen "Fiber til all på Skinstø" (org.nr. [919 679 441](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=919679441)) ble stiftet i 26.09.2017
@@ -25,7 +25,7 @@ Les mer i [foreningens vedtekter]({{< ref "vedtekter.md" >}}).
 ## Årsmøte
 
 Vi vil avholde første årsmøte etter etableringsprosjektet er gjennomført og alle
-er blitt koblet opp. Sannsynligvis ved årskiftet 2018–2019.
+er blitt koblet opp. Første årsmøte vil bli avholdt i oktober 2019.
 
 ## Styret
 

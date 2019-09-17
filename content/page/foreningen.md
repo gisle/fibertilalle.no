@@ -25,7 +25,8 @@ Les mer i [foreningens vedtekter]({{< ref "vedtekter.md" >}}).
 ## Årsmøte
 
 Vi vil avholde første årsmøte etter etableringsprosjektet er gjennomført og alle
-er blitt koblet opp. Første årsmøte vil bli avholdt i oktober 2019.
+er blitt koblet opp. [Første årsmøte vil bli avholdt den 22. oktober 2019]({{< ref "aarsmote-2019.md" >}}).
+
 
 ## Styret
 

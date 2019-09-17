@@ -19,7 +19,7 @@ leverandør hvis det er fordelaktig.
 
 Tjenestene som HomeNet idag kan tilby over fibernettet er:
 
-* Internett-aksess (100, 500 eller 1000 Mbit/s) levert til router-boks[^router] i boligen og wifi-boks[^wifi]
+* Internett-aksess (100, 500 eller 1000 Mbit/s) levert til router-boks[^router] i boligen og egen wifi-boks[^wifi]
 * TV-pakker og bokser fra [RiksTV](https://www.rikstv.no) eller [Viasat](https://www.viasat.no)
 
 HomeNet har laget en egen side med mer [informasjon

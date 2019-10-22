@@ -47,7 +47,7 @@ bakgrunnen. Ingen kommentarer ut over det.
 Pål Toft gjennomgikk regnskapet og informerte om budsjettet for 2020.
 Foreningen har god økonomi. Ingen spørsmål eller innvendinger.
 
-### Kontigent
+### Kontingent
 
 Eivind informerte om at den årlige medlemskontingenten til foreningen var satt
 til kr 0,- og at det ikke er foreslått å endre den.

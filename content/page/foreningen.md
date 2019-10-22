@@ -24,14 +24,12 @@ Les mer i [foreningens vedtekter]({{< ref "vedtekter.md" >}}).
 
 ## Årsmøte
 
-Vi vil avholde første årsmøte etter etableringsprosjektet er gjennomført og alle
-er blitt koblet opp. [Første årsmøte vil bli avholdt den 22. oktober 2019]({{< ref "aarsmote-2019.md" >}}).
+[Første årsmøte ble avholdt den 22. oktober 2019]({{< ref "aarsmote-2019.md" >}}).
 
 
 ## Styret
 
-Interimsstyret virker inntil første årsmøte er avholdt og har følgende
-medlemmer.
+Foreningens styre har følgende medlemmer.
 
 Leder:
 
@@ -46,3 +44,5 @@ Styremedlemmer:
 : Roald Osland; Hallskaret 22, tlf 945 24 528
 : Henning Waage; Myrdalskogen 139, tlf 900 17 625
 : Gisle Aas; Myrdalskogen 261 J, tlf 932 41 450
+: Pål Toft;
+: Thor Haugan;

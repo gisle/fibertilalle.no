@@ -39,7 +39,7 @@ Nestleder:
 
 : Arne Olsen, Myrdalskogen 135, tlf 909 19 586
 
-Kasserer / økonomiansvarlig:
+Kasserer/økonomiansvarlig:
 
 : Pål Toft, Hallskaret 111, tlf 416 80 899
 

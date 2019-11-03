@@ -48,8 +48,9 @@ Foreningen har god økonomi. Ingen spørsmål eller innvendinger.
 
 ### Kontingent
 
-Eivind informerte om at den årlige medlemskontingenten til foreningen var satt
-til kr 0,- og at det ikke er foreslått å endre den.
+Eivind Lowzow foreslo at den årlige medlemskontingenten til foreningen blir satt
+til kr 0,-. Dette forslaget ble enstemmig vedtatt av årsmøtet.
+
 
 ### Valg av styre
 

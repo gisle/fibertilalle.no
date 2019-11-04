@@ -24,7 +24,7 @@ Første ordinære årsmøte ble avholdt tirsdag 22. oktober 2019 kl 19:00 på Ha
 Representanter for 22 husstander møtte fram, samt 6 personer fra
 interimstyret.
 
-Eivind Lowzow åpnet årsmøtet og innkallingen og dagorden ble godkjent uten
+Eivind Lowzow åpnet årsmøtet og innkallingen og dagsorden ble godkjent uten
 innvending. Arne Olsen ble valgt til møteleder, og Gisle Aas ble valgt til
 referent. Ole Arntzen og Espen Gjelsvik ble valgt til å undertegne protokollen.
 

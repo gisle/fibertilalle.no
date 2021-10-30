@@ -83,7 +83,7 @@ Når det ved valg skal velges flere ved en avstemming, må alle, for å anses va
 
 ## § 11	Ekstraordinære årsmøter
 
-Ekstraordinære årsmøter holdes når styret bestemmer det, eller minst 1/3 av de stemmeberettigede medlemmene krever det.
+Ekstraordinære årsmøter holdes når styret bestemmer det, eller minst ⅓ av de stemmeberettigede medlemmene krever det.
 
 Det innkalles på samme måte som for ordinære årsmøter, med minst 14 dagers varsel.
 
@@ -110,13 +110,13 @@ Foreningen tegnes av styret i fellesskap.
 
 ## § 13	Vedtektsendring
 
-Endringer i disse vedtekter kan bare foretas på ordinært eller ekstraordinært årsmøte etter å ha vært på sakslisten, og det kreves fremmøte på 2/3 flertall av medlemmene.
+Endringer i disse vedtekter kan bare foretas på ordinært eller ekstraordinært årsmøte etter å ha vært på sakslisten, og det kreves fremmøte på ⅔ flertall av medlemmene.
 
 Fremmøte kan gjøres med fullmakt.
 
 ## § 14	Oppløsning, sammenslutning og deling
 
-Oppløsning av foreningen kan bare behandles på ordinært eller ekstraordinært årsmøte. Blir oppløsning vedtatt med minst 2/3 flertall, innkalles ekstraordinært årsmøte 3 måneder senere. For at oppløsning skal skje, må vedtaket her gjentas med 2/3 flertall, stemmereglene for vedtektsendringer etter §13 gjelder. Det kan velges et avviklingsstyre som skal forestå avviklingen. Det ordinære styret kan velges til avviklingsstyre, og får stilling som avviklingsstyre om intet valg foretas.
+Oppløsning av foreningen kan bare behandles på ordinært eller ekstraordinært årsmøte. Blir oppløsning vedtatt med minst ⅔ flertall, innkalles ekstraordinært årsmøte 3 måneder senere. For at oppløsning skal skje, må vedtaket her gjentas med ⅔ flertall, stemmereglene for vedtektsendringer etter §13 gjelder. Det kan velges et avviklingsstyre som skal forestå avviklingen. Det ordinære styret kan velges til avviklingsstyre, og får stilling som avviklingsstyre om intet valg foretas.
 
 Foreningens formue skal etter oppløsning og gjeldsavleggelse gå til et veldedig formål.
 

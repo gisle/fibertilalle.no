@@ -19,6 +19,9 @@ DefaultContentLanguage = "nb"
   hideAuthor = true
   #favicon = "img/favicon.ico"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [[menu.main]]
     name = "Om"
     url = "page/foreningen/"

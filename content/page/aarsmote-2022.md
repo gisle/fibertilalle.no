@@ -14,10 +14,9 @@ har gjort at vi ikke har fått avholdt årsmøter som stipulert i vedtektene sid
 2. Valg av møteleder
 3. Valg av referent(er)
 4. Valg av protokollunderskrivere
-5. Orientering fra Styret
-6. Årsberetning
+5. Årsberetning
+6. Regnskap
 7. Styrets innstilling til ny avtale med Internett-leverandør for neste periode
-8. Regnskap
-9. Budsjett
-10. Kontingent
-11. Valg av styre
+8. Budsjett
+9. Kontingent
+10. Valg av styre

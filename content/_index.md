@@ -1,6 +1,6 @@
 ---
 title: "Fiber til alle på Skinstø"
-date: 2019-09-17
+date: 2022-11-16
 ---
 
 
@@ -19,3 +19,7 @@ Det er fremdeles mulighet til å tegne seg som medlem, selv om du ikke ble med
 fra starten av.
 
 <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSc531a9dCk4oJumySyEEjdyYxIBqFLyv8CWr1J5WwNaz4dJlQ/viewform?c=0&amp;w=1&amp;usp=mail_form_link">Bestill tilknytning til fiberbredbånd </a>
+
+<div style="text-align: center; font-size: 140%; margin: 2em 0;">
+Vi vil avholde årsmøte 12. desember 2022.<br>Mer informasjon følger.
+</div>

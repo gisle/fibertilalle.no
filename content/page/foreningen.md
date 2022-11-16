@@ -22,9 +22,11 @@ Les mer i [foreningens vedtekter]({{< ref "vedtekter.md" >}}).
     Myrdalskogen 226
     5117 Ulset
 
-## Årsmøte
+## Årsmøter
 
 [Første årsmøte ble avholdt den 22. oktober 2019]({{< ref "aarsmote-2019.md" >}}).
+
+[Andre årsmøte blir avholdt den 12. desember 2022]({{< ref "aarsmote-2022.md" >}}).
 
 
 ## Styret

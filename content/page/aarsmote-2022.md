@@ -67,7 +67,7 @@ og undertegner ny avtale med Homenet. Det ble påpekt at vi bør holde igjen et
 passe buffer til å dekke utgifter som måtte komme og at vi slipper å måte kreve
 inn kontigent framover.
 
-Det kom også opp en diskusjon om kompentasjon til styret for det godt
+Det kom også opp en diskusjon om kompentasjon til styret for godt
 gjennomført arbeid. Det ble antydet at 100.000,- kunne være en fornuftig sum til
 fordeling i styret. Det ble gitt tilsluting til at styret kunne forslå en slik
 kompensasjon for godkjenning ved neste årsmøte.

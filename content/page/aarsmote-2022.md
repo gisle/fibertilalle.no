@@ -21,17 +21,17 @@ har gjort at vi ikke har fått avholdt årsmøter som stipulert i vedtektene sid
 9. Kontingent
 10. Valg av styre
 
-## Referat
+## Referat (utkast)
 
-Roald talte opp og registrerte hvilke husstander som var møtt opp;
-representert var XX husstander av i alt 260 medlemmer ved
-årsmøtetidspunktet. Dette tallet inkluderte også styrets medlemmer.
+Roald Osland talte opp og registrerte hvilke husstander/medlemmer som var møtt
+opp; representert var XX husstander av i alt 260 ved årsmøtetidspunktet. Dette
+tallet inkluderte også styrets medlemmer.
 
 Gisle Aas ble utpekt som referent.
 
 Styrets leder Arne Olsen startet møte ved å gå rett på sak med å ønske velkommen
 og fortelle om hva styret har jobbet med siden sist årsmøte.  Hovedsaken var
-arbeidet som å få inn og vurdere tilbud på å levere internetttjenester og drifte
+arbeidet med å få inn og vurdere tilbud på å levere internetttjenester og drifte
 fibernettet vårt for neste periode. Styret ønsker å gå videre med Homenet og vil presentere detaljene senere i møtet (pkt 7).
 
 Fraværet av protester må vel da anses som implisit godkjenning av innkallingen, møteledelsen og referent. Mot slutten av møte ble det også utpekt 2 protokollunderskrivere; Kristian og Torgny.
@@ -55,9 +55,9 @@ tilkoblingsavgift til forreningen. De som velger å gå inn på avtale med Homen
 fremover blir medlemmer på lik linje med de andre.
 
 Deretter hadde vi en bolk hvor representant for Homenet (Stig Lindnes) kom inn i
-møtet for å fortelle litt sitt syn på avtalen og om Homenet sine planer
+møtet for å fortelle litt om sitt syn på avtalen og om Homenet sine planer
 framover. Her kommer det også fram Globalconnect vil slutte å bruke Homenet som
-merkevare fra 2023.
+merkevarenavn fra 2023.
 
 Stig forlot så møtet og det ble åpnet for tilbakemeldinger og spørsmål om
 avtalen.  Basert på reservene i banken og salget av resterende potensielle

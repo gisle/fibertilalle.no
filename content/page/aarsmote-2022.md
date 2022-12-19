@@ -46,7 +46,7 @@ vår driftsleverandør tar seg av dette. Styret tar diskusjonen til etterretning
 og vil undersøke om forsikring mot skade vil være til nytte for foreningen.
 
 Deretter gjennomgikk Henning Waage den nye avtalen som vi har fremforhandlet med
-Homenet. Utkastet er også tilsendt medlemmene. Vi har også avtalt å "selge" de
+Homenet. Utkastet er tilsendt medlemmene. Vi har også avtalt å "selge" de
 resterende husstandene som enda ikke har koblet seg til nettet i vårt område.
 Det gjør at Homenet er fri til å inngå avtale med disse uten at vi vil kreve
 tilkoblingsavgift til foreningen. De som velger å gå inn på avtale med Homenet
@@ -58,7 +58,7 @@ framover, samt at han besvarte spørsmål fra årsmøtet. Her kommer det også f
 at Globalconnect vil slutte å bruke Homenet som merkevarenavn fra 2023.
 
 Stig forlot så møtet og det ble åpnet for tilbakemeldinger og spørsmål om
-avtalen.  Basert på reservene i banken og salget av resterende mulige
+avtalen.  Basert på reservene i banken og salget av resterende potensielle
 medlemmer så innstiller styret på å tilbakebetale en sum jevnt til nåværende
 medlemmer.  Årsmøtet gir sin tilslutning til dette og at styret ferdigstiller
 og undertegner ny avtale med Homenet. Det ble påpekt at vi bør holde igjen en

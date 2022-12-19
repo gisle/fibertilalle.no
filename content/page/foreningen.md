@@ -17,34 +17,33 @@ Les mer i [foreningens vedtekter]({{< ref "vedtekter.md" >}}).
 
 ## Kontaktadresse
 
-    Fiber til alle på Skinstø
-    c/o Eivind Lowzow
-    Myrdalskogen 226
-    5117 Ulset
-
-## Årsmøter
-
-[Første årsmøte ble avholdt den 22. oktober 2019]({{< ref "aarsmote-2019.md" >}}).
-
-[Andre årsmøte blir avholdt den 12. desember 2022]({{< ref "aarsmote-2022.md" >}}).
-
+```
+  Fiber til alle på Skinstø
+  c/o Eivind Lowzow
+  Myrdalskogen 226
+  5117 Ulset
+```
 
 ## Styret
 
-Foreningens styre har følgende medlemmer.
+Foreningens styre har følgende sammensetning.
 
-Leder:
+#### Leder og nestleder:
 
-: Eivind Lowzow, Myrdalskogen 226, tlf 404 29 897
+* Eivind Lowzow, Myrdalskogen 226, tlf 404 29 897
+* Arne Olsen, Myrdalskogen 135, tlf 909 19 586
 
-Nestleder:
+#### Styremedlemmer:
 
-: Arne Olsen, Myrdalskogen 135, tlf 909 19 586
+* Henning Waage, Myrdalskogen 139, tlf 900 17 625
+* Roald Osland, Hallskaret 22, tlf 945 24 528
+* Gisle Aas, Myrdalskogen 261 J, tlf 932 41 450
+* Pål Toft, Hallskaret 111, tlf 416 80 899
+* Thor Haugan, Myrdalskogen 122, tlf 900 96 000
 
-Styremedlemmer:
+## Årsmøter
 
-: Henning Waage, Myrdalskogen 139, tlf 900 17 625
-: Roald Osland, Hallskaret 22, tlf 945 24 528
-: Gisle Aas, Myrdalskogen 261 J, tlf 932 41 450
-: Pål Toft, Hallskaret 111, tlf 416 80 899
-: Thor Haugan, Myrdalskogen 122, tlf 900 96 000
+* [Første årsmøte ble avholdt den 22. oktober 2019]({{< ref "aarsmote-2019.md" >}}).
+* [Andre årsmøte blir avholdt den 12. desember 2022]({{< ref "aarsmote-2022.md" >}}).
+
+

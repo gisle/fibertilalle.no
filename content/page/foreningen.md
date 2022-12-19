@@ -35,19 +35,16 @@ Foreningens styre har følgende medlemmer.
 
 Leder:
 
-: Arne Olsen, Myrdalskogen 135, tlf 909 19 586
+: Eivind Lowzow, Myrdalskogen 226, tlf 404 29 897
 
 Nestleder:
 
-: Eivind Lowzow, Myrdalskogen 226, tlf 404 29 897
-
-Kasserer/økonomiansvarlig:
-
-: Pål Toft, Hallskaret 111, tlf 416 80 899
+: Arne Olsen, Myrdalskogen 135, tlf 909 19 586
 
 Styremedlemmer:
 
-: Roald Osland, Hallskaret 22, tlf 945 24 528
 : Henning Waage, Myrdalskogen 139, tlf 900 17 625
+: Roald Osland, Hallskaret 22, tlf 945 24 528
 : Gisle Aas, Myrdalskogen 261 J, tlf 932 41 450
+: Pål Toft, Hallskaret 111, tlf 416 80 899
 : Thor Haugan, Myrdalskogen 122, tlf 900 96 000

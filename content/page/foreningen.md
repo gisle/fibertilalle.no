@@ -38,7 +38,6 @@ Foreningens styre har følgende sammensetning.
 * Henning Waage, Myrdalskogen 139, tlf 900 17 625
 * Roald Osland, Hallskaret 22, tlf 945 24 528
 * Gisle Aas, Myrdalskogen 261 J, tlf 932 41 450
-* Thor Haugan, Myrdalskogen 122, tlf 900 96 000
 
 ## Årsmøter
 

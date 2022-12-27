@@ -82,4 +82,4 @@ Styret ble gjenvalgt med akklamasjon. Styret som fortsetter er:
 
 * Leder: Eivind Lowzow
 * Nestleder: Arne Olsen
-* Styremedlemmer: Henning Waage, Roald Osland, Gisle Aas, Thor Haugan
+* Styremedlemmer: Henning Waage, Roald Osland, Gisle Aas

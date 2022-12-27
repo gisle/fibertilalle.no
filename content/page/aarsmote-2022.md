@@ -1,6 +1,6 @@
 ---
-title: "Årsmøte 2022 – Innkalling og referat"
-date: 2022-11-16
+title: "Årsmøte 2022"
+date: 2022-12-27
 ---
 
 Andre ordinære årsmøte ble avholdt **mandag 12. desember 2022 kl 19:00 på

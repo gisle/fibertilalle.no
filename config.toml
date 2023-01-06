@@ -1,4 +1,4 @@
-baseURL = "http://fibertilalle.no/"
+baseURL = "https://fibertilalle.no/"
 languageCode = "nb-NO"
 title = "Fiber til alle på Skinstø"
 publishdir = "docs"

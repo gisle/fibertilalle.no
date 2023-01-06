@@ -21,7 +21,7 @@ har gjort at vi ikke har fått avholdt årsmøter som stipulert i vedtektene sid
 9. Kontingent
 10. Valg av styre
 
-## Referat (utkast)
+## Referat
 
 Roald Osland talte opp og registrerte hvilke husstander/medlemmer som var møtt
 opp.  22 husstander var representert på årsmøtet av en medlemsmasse på 263.
@@ -56,7 +56,7 @@ fremover blir medlemmer på lik linje med de andre.
 Deretter kom representant for Homenet (Stig Linnes) inn i
 møtet for å fortelle litt om sitt syn på avtalen og om Homenet sine planer
 framover, samt at han besvarte spørsmål fra årsmøtet. Her kommer det også fram
-at Globalconnect vil slutte å bruke Homenet som merkevarenavn fra 2023.
+at GlobalConnect vil slutte å bruke Homenet som merkevarenavn fra 2023.
 
 Stig forlot så møtet og det ble åpnet for tilbakemeldinger og spørsmål om
 avtalen.  Årsmøtet gav sin tilslutning til at styret ferdigstiller
@@ -83,3 +83,5 @@ Styret ble gjenvalgt med akklamasjon. Styret som fortsetter er:
 * Leder: Eivind Lowzow
 * Nestleder: Arne Olsen
 * Styremedlemmer: Henning Waage, Roald Osland, Gisle Aas
+
+Pål Toft og Thor Haugan har valgt å ikke fortsette i styret.

@@ -3,10 +3,10 @@ title: "Årsmøte 2023"
 date: 2023-11-07
 ---
 
-Årsmøte blir avholdt **torsdag 14. desember 2022 kl 19:00 på Haukedalen skole**.
+Årsmøte blir avholdt **torsdag 14. desember 2023 kl 19:00 på Haukedalen skole**.
 
 Nye saker til årsmøte må meldes inn til styret innen 30. november.
-Fullstendig saksliste og saksdokumenter vil være tilgjengelig på denne siden en uke før årsmøtet.
+Fullstendig saksliste og saksdokumenter vil være tilgjengelig på denne siden én uke før årsmøtet.
 
 
 ## Foreløpig saksliste:

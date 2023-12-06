@@ -1,6 +1,6 @@
 ---
 title: "Årsmøte 2023"
-date: 2023-11-07
+date: 2023-12-07
 ---
 
 Årsmøte blir avholdt **torsdag 14. desember 2023 kl 19:00 på Haukedalen skole, Auditoriet**.

@@ -9,7 +9,7 @@ Nye saker til årsmøte må meldes inn til styret innen 30. november.
 Fullstendig saksliste og saksdokumenter vil være tilgjengelig på denne siden én uke før årsmøtet.
 
 
-## Foreløpig saksliste:
+## Saksliste:
 
 1. Godkjenning av innkalling og dagsorden
 2. Valg av møteleder

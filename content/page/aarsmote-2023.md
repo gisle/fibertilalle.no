@@ -36,28 +36,28 @@ på 268.  Av disse var 5 fra styret.
 
 *Sak 4:* Kristian Tindvik Sletten og Torgny Neuman meldte seg som protokollunderskrivere.
 
-*Sak 5:* Eivind leste seg gjennom den kortfattede [årsberetningen](/arsmote-2023/arsberetning.pdf).  Ingen innvendinger til den.
+*Sak 5:* Eivind leste gjennom den kortfattede [årsberetningen](/arsmote-2023/arsberetning.pdf).  Ingen innvendinger til den.
 
 *Sak 6:* Eivind gjennomgikk regnskapet. Ingen innvendinger.
 
 *Sak 7:* Eivind gjennomgikk budsjettet for 2024. Ingen innvendinger.
 
-*Sak 8:* Roald Osland gjennomgikk forslag til styrehonorar på bakgrunn i oppfordringen
+*Sak 8:* Roald Osland gjennomgikk forslag til styrehonorar på bakgrunn på oppfordringen
 fra forrige årsmøte.  Forslaget var å betale ut kr 20.000,- til hvert
 styremedlem og dobbelt sum til styreleder. Ingen innvendinger.
 
-*Sak 9:* Eivind gjorde rede for arbeidet med tilbakebetaling.  Det er bare én husstand som enda ikke har levert krav og derved mottatt tilbakebetaling.
+*Sak 9:* Eivind gjorde rede for arbeidet med tilbakebetaling.  Det er bare én husstand som ikke har levert krav og derved mottatt tilbakebetaling.
 
 *Sak 10:* Kontigenten for 2024 var foreslått satt til kr 0,-.  Ingen innvendinger.
 
 *Sak 11:* Eivind og Henning innledet om status for utskifting av hjemmesentral
 og infrastruktur.  Det har vært litt ustabilitet i nettet under denne
-utskiftingen.  Fibermedlem Øyvind Hjortland redegjorde for målinger han har gjort for å
-klargjøre dette problemet ovenfor GlobalConnect.  Oppgraderingen er satt på vent
-i påvente av softwareoppdating som man håper vil unngå ustabiliteten.  Arbeidet
-fortsetter etter dette og forventes å bli ferdig utpå nyåret.  Inntil dette er
-ferdig skal alle huststander være oppgradert til 1000 Mbit forbindelse uansett
-hva de har bestilt.
+utskiftingen.  Fibermedlem Øyvind Hjortland redegjorde for målinger han har
+gjort for å klargjøre dette problemet ovenfor GlobalConnect.  Oppgraderingen er
+satt på vent i påvente av softwareoppdatering som man håper vil gjøre at man
+unngå ustabiliteten.  Arbeidet fortsetter etter dette og forventes å bli ferdig
+utpå nyåret.  Inntil dette er ferdig skal alle huststander være oppgradert til
+1000 Mbit/s forbindelse uansett hva de har bestilt.
 
 Det kom også fram i Øyvinds redegjørelse at switchene som kobler seg opp mot
 inntil 48 husstander nå blir oppgradert med mulighet for 10 Gbit/s ut, men ikke
@@ -67,7 +67,7 @@ konfigurasjonen ikke er i henhold til avtalen med GlobalConnect.
 *Sak 12:* Roald innledet om styrets involvering og oppfatning av hvordan saker
 rundt skader som oppstår på nedgravde kabler skal håndteres.  Det var
 diskusjoner basert på de få tilfellene som har vært i året som gikk.  Årsmøtet
-ber styret om i samarbeid med GlobalConnect om å utarbeide klare skriflige
+ber styret om i samarbeid med GlobalConnect å utarbeide klare skriflige
 prosedyrer for hvordan slike saker skal behandles.
 
 *Sak 13:* Utgikk fordi det ikke kom inn noen saker til årsmøtet.

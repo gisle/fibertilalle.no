@@ -1,13 +1,9 @@
 ---
 title: "Årsmøte 2023"
-date: 2023-12-07
+date: 2023-12-14
 ---
 
-Årsmøte blir avholdt **torsdag 14. desember 2023 kl 19:00 på Haukedalen skole, Auditoriet**.
-
-Nye saker til årsmøte må meldes inn til styret innen 30. november.
-Fullstendig saksliste og saksdokumenter vil være tilgjengelig på denne siden én uke før årsmøtet.
-
+Årsmøte ble avholdt **torsdag 14. desember 2023 kl 19:00 på Haukedalen skole, Auditoriet**.
 
 ## Saksliste:
 
@@ -25,3 +21,55 @@ Fullstendig saksliste og saksdokumenter vil være tilgjengelig på denne siden �
 12. Prosedyre ved skader på kabler og infrastruktur
 13. ~~Innkomne saker~~
 14. Valg av valgkomité
+
+## Referat (utkast)
+
+Henning Waage og Arne Olsen talte opp og registrerte hvilke husstander/medlemmer
+som var møtt opp.  19 husstander var representert på årsmøtet av en medlemsmasse
+på 268.  Av disse var 5 fra styret.
+
+*Sak 1:* Ingen innvendinger til møteinnkallingen og dagsorden.
+
+*Sak 2:* Eivind Lowsow ble foreslått til møteleder. Ingen innvendinger.
+
+*Sak 3:* Gisle Aas ble foreslått som referent. Ingen innvendinger.
+
+*Sak 4:* Kristian Tindvik Sletten og Torgny Neuman meldte seg som protokollunderskrivere.
+
+*Sak 5:* Eivind leste seg gjennom den kortfattede [årsberetningen](/arsmote-2023/arsberetning.pdf).  Ingen innvendinger til den.
+
+*Sak 6:* Eivind gjennomgikk regnskapet. Ingen innvendinger.
+
+*Sak 7:* Eivind gjennomgikk budsjettet for 2024. Ingen innvendinger.
+
+*Sak 8:* Roald Osland gjennomgikk forslag til styrehonorar på bakgrunn i oppfordringen
+fra forrige årsmøte.  Forslaget var å betale ut kr 20.000,- til hvert
+styremedlem og dobbelt sum til styreleder. Ingen innvendinger.
+
+*Sak 9:* Eivind gjorde rede for arbeidet med tilbakebetaling.  Det er bare én husstand som enda ikke har levert krav og derved mottatt tilbakebetaling.
+
+*Sak 10:* Kontigenten for 2024 var foreslått satt til kr 0,-.  Ingen innvendinger.
+
+*Sak 11:* Eivind og Henning innledet om status for utskifting av hjemmesentral
+og infrastruktur.  Det har vært litt ustabilitet i nettet under denne
+utskiftingen.  Fibermedlem Øyvind Hjortland redegjorde for målinger han har gjort for å
+klargjøre dette problemet ovenfor GlobalConnect.  Oppgraderingen er satt på vent
+i påvente av softwareoppdating som man håper vil unngå ustabiliteten.  Arbeidet
+fortsetter etter dette og forventes å bli ferdig utpå nyåret.  Inntil dette er
+ferdig skal alle huststander være oppgradert til 1000 Mbit forbindelse uansett
+hva de har bestilt.
+
+Det kom også fram i Øyvinds redegjørelse at switchene som kobler seg opp mot
+inntil 48 husstander nå blir oppgradert med mulighet for 10 Gbit/s ut, men ikke
+matchende kapasitet inn til switchen. Årsmøtet ber styret påpeke at denne
+konfigurasjonen ikke er i henhold til avtalen med GlobalConnect.
+
+*Sak 12:* Roald innledet om styrets involvering og oppfatning av hvordan saker
+rundt skader som oppstår på nedgravde kabler skal håndteres.  Det var
+diskusjoner basert på de få tilfellene som har vært i året som gikk.  Årsmøtet
+ber styret om i samarbeid med GlobalConnect om å utarbeide klare skriflige
+prosedyrer for hvordan slike saker skal behandles.
+
+*Sak 13:* Utgikk fordi det ikke kom inn noen saker til årsmøtet.
+
+*Sak 14:* Erik Dahl-Paulsen og Kristian Tindvik Sletten melde seg som valgkomitee fikk mandat til å foreslå kandidater til styret ved neste årsmøte.

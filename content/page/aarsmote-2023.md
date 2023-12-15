@@ -30,7 +30,7 @@ på 268.  Av disse var 5 fra styret.
 
 *Sak 1:* Ingen innvendinger til møteinnkallingen og dagsorden.
 
-*Sak 2:* Eivind Lowsow ble foreslått til møteleder. Ingen innvendinger.
+*Sak 2:* Eivind Lowzow ble foreslått til møteleder. Ingen innvendinger.
 
 *Sak 3:* Gisle Aas ble foreslått som referent. Ingen innvendinger.
 
@@ -48,7 +48,7 @@ styremedlem og dobbelt sum til styreleder. Ingen innvendinger.
 
 *Sak 9:* Eivind gjorde rede for arbeidet med tilbakebetaling.  Det er bare én husstand som ikke har levert krav og derved mottatt tilbakebetaling.
 
-*Sak 10:* Kontigenten for 2024 var foreslått satt til kr 0,-.  Ingen innvendinger.
+*Sak 10:* Kontingenten for 2024 var foreslått satt til kr 0,-.  Ingen innvendinger.
 
 *Sak 11:* Eivind og Henning innledet om status for utskifting av hjemmesentral
 og infrastruktur.  Det har vært litt ustabilitet i nettet under denne
@@ -56,7 +56,7 @@ utskiftingen.  Fibermedlem Øyvind Hjortland redegjorde for målinger han har
 gjort for å klargjøre dette problemet ovenfor GlobalConnect.  Oppgraderingen er
 satt på vent i påvente av softwareoppdatering som man håper vil gjøre at man
 unngå ustabiliteten.  Arbeidet fortsetter etter dette og forventes å bli ferdig
-utpå nyåret.  Inntil dette er ferdig skal alle huststander være oppgradert til
+utpå nyåret.  Inntil dette er ferdig skal alle husstander være oppgradert til
 1000 Mbit/s forbindelse uansett hva de har bestilt.
 
 Det kom også fram i Øyvinds redegjørelse at switchene som kobler seg opp mot
@@ -72,4 +72,4 @@ prosedyrer for hvordan slike saker skal behandles.
 
 *Sak 13:* Utgikk fordi det ikke kom inn noen saker til årsmøtet.
 
-*Sak 14:* Erik Dahl-Paulsen og Kristian Tindvik Sletten melde seg som valgkomitee fikk mandat til å foreslå kandidater til styret ved neste årsmøte.
+*Sak 14:* Erik Dahl-Paulsen og Kristian Tindvik Sletten melde seg som valgkomité fikk mandat til å foreslå kandidater til styret ved neste årsmøte.

@@ -55,7 +55,7 @@ og infrastruktur.  Det har vært litt ustabilitet i nettet under denne
 utskiftingen.  Fibermedlem Øyvind Hjortland redegjorde for målinger han har
 gjort for å klargjøre dette problemet ovenfor GlobalConnect.  Oppgraderingen er
 satt på vent i påvente av softwareoppdatering som man håper vil gjøre at man
-unngå ustabiliteten.  Arbeidet fortsetter etter dette og forventes å bli ferdig
+unngår ustabiliteten.  Arbeidet fortsetter etter dette og forventes å bli ferdig
 utpå nyåret.  Inntil dette er ferdig skal alle husstander være oppgradert til
 1000 Mbit/s forbindelse uansett hva de har bestilt.
 

@@ -44,7 +44,7 @@ på 268.  Av disse var 5 fra styret.
 
 *Sak 8:* Roald Osland gjennomgikk forslag til styrehonorar på bakgrunn på oppfordringen
 fra forrige årsmøte.  Forslaget var å betale ut kr 20.000,- til hvert
-styremedlem og dobbelt sum til styreleder. Enstemmig vedtatt.
+styremedlem og dobbel sum til styreleder. Enstemmig vedtatt.
 
 *Sak 9:* Eivind gjorde rede for arbeidet med tilbakebetaling.  Det er bare én husstand som ikke har levert krav og derved mottatt tilbakebetaling.
 

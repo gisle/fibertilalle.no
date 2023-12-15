@@ -72,4 +72,4 @@ prosedyrer for hvordan slike saker skal behandles.
 
 *Sak 13:* Utgikk fordi det ikke kom inn noen saker til årsmøtet.
 
-*Sak 14:* Erik Dahl-Paulsen og Kristian Tindvik Sletten melde seg som valgkomité fikk mandat til å foreslå kandidater til styret ved neste årsmøte.
+*Sak 14:* Erik Dahl-Paulsen og Kristian Tindvik Sletten melde seg som valgkomité og fikk mandat til å foreslå kandidater til styret ved neste årsmøte.

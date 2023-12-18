@@ -22,7 +22,7 @@ date: 2023-12-14
 13. ~~Innkomne saker~~
 14. Valg av valgkomité
 
-## Referat (utkast)
+## Referat
 
 Henning Waage og Arne Olsen talte opp og registrerte hvilke husstander/medlemmer
 som var møtt opp.  19 husstander var representert på årsmøtet av en medlemsmasse

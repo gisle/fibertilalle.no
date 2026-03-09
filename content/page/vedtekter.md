@@ -1,6 +1,6 @@
 ---
 title: "Vedtekter"
-date: 2018-09-06T21:14:10+02:00
+date: 2026-03-09
 ---
 
 ## § 1	Foreningens navn
@@ -20,9 +20,9 @@ For å kunne bli medlem, må man være tilknyttet fiberanlegget og man må betal
 
 Den som eier en bolig som er knyttet til fiberanlegget er automatisk medlem – ett medlemskap pr tilknytning og maksimum ett medlemskap pr bolig.
 
-For å være medlem, må husstandens husvære være knyttet til kabelanlegget eiet av foreningen og betale kontingent fastsatt av interimsstyre/styret/årsmøtet.
+For å være medlem, må husstandens husvære være knyttet til kabelanlegget eiet av foreningen og betale kontingent fastsatt av styret/årsmøtet.
 
-Interimsstyret/styret/årsmøtet fastsetter tilknytningsavgift og godkjenner nye medlemmer som ikke var tilknyttet på byggetidspunktet for nettet.
+Styret/årsmøtet fastsetter tilknytningsavgift og godkjenner nye medlemmer som ikke var tilknyttet på byggetidspunktet for nettet.
 
 For å kunne motta tjenester over fiberanlegget må medlemmet betale fastsatt kontingent.
 

@@ -47,6 +47,8 @@ Tillitsvalgte skal ikke motta honorarer eller annet fra tjenestetilbydere. Årsm
 Årsmøtet er foreningens høyeste myndighet.
 Årsmøtet innkalles av styret med minst 1 måneds varsel, direkte til medlemmene og/eller ved kunngjøring i pressen. Forslag som skal behandles på årsmøtet skal være sendt til styret senest to uker før årsmøtet. Fullstendig saksliste og saksdokumenter må være tilgjengelig for medlemmene senest en uke før årsmøtet. Saksliste og dokumenter kan gjøres tilgjengelig elektronisk.
 
+Styret er ansvarlig for at det ikke går mer enn 3 år mellom hver gang årsmøtet avholdes.
+
 Alle medlemmer har adgang til årsmøtet.  Styret kan invitere andre personer til å være til stede.
 
 Årsmøtet er vedtaksført med det antall stemmeberettigede medlemmer som møter. Ingen har mer enn én stemme, og stemmegivning kan skje ved fullmakt. Skriftlig fullmakt må fremvises.

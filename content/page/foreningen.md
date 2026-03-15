@@ -3,7 +3,7 @@ title: "Om foreningen"
 date: 2023-12-08
 ---
 
-Foreningen "Fiber til all på Skinstø" (org.nr. [919 679 441](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=919679441)) ble stiftet i 26.09.2017
+Foreningen "Fiber til alle på Skinstø" (org.nr. [919 679 441](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=919679441)) ble stiftet i 26.09.2017
 med formålet:
 
 > Eie, organisere og styre bruk av

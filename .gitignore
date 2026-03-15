@@ -1,3 +1,4 @@
 /docs/
 /themes/
 /static/google*.html
+/.hugo_build.lock

@@ -12,7 +12,7 @@ date: 2026-03-05
 3. Valg av referent(er)
 4. Valg av protokollunderskrivere
 5. Årsberetning
-6. Regnskap ([2023–2025](/arsmote-2026/resultat_og_balanse_2025.pdf)
+6. Regnskap ([2023–2025](/arsmote-2026/resultat_og_balanse_2025.pdf))
 7. Budsjett
 8. Styrehonorar
 9. Kontingent for 2026

@@ -5,7 +5,7 @@ publishdir = "docs"
 theme = "beautifulhugo"
 DefaultContentLanguage = "nb"
 
-[Author]
+[Params.author]
   name = "Styret"
   website = "/page/foreningen/#styret"
   email = "post@fibertilalle.no"

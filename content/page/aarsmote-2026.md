@@ -11,9 +11,11 @@ date: 2026-03-05
 2. Valg av møteleder
 3. Valg av referent(er)
 4. Valg av protokollunderskrivere
-5. [Årsberetning](/arsmote-2026/arsberetning.pdf)
-6. Regnskap ([2022](/arsmote-2026/regnskap-2022.pdf) og [samlet](/arsmote-2026/regnskap-samlet.pdf))
-7. [Budsjett](/arsmote-2026/budjett-2024.pdf)
+5. Årsberetning
+6. Regnskap ([2023–2025](/arsmote-2026/resultat_og_balanse_2025.pdf)
+7. Budsjett
 8. Styrehonorar
 9. Kontingent for 2026
-10. Valg av valgkomité
+10. [Endringer i vedtektene](https://github.com/gisle/fibertilalle.no/pull/1)
+11. Valg av nye medlemmet til styret
+12. Valg av valgkomité

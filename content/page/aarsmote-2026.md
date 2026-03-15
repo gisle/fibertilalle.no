@@ -1,9 +1,9 @@
 ---
 title: "Årsmøte 2026"
-date: 2026-03-05
+date: 2026-03-15
 ---
 
-Årsmøte blir avholdt **mandag 14. april 2026 kl 19:00 på Haukedalen skole**.
+Årsmøte blir avholdt **mandag 13. april 2026 kl 19:00 på Haukedalen skole**.
 
 ## Saksliste:
 

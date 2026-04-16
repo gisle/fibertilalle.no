@@ -35,14 +35,16 @@ Henning Waage og Arne Olsen talte opp og registrerte hvilke husstander/medlemmer
 
 *Sak 5:* Arne Olsen leste gjennom årsberetningen.  Små justeringer i teksten underveis.
 
-*Sak 6:* Eivind gikk gjennom regnskapet 2025. Ingen justeringer. Ingen innvendinger.
+*Sak 6:* Eivind Lowzow gikk gjennom regnskapet 2025. Ingen justeringer. Ingen innvendinger.
 
 *Sak 8:* Styrets honorar ble foreslått å være kr 0,-.  Vedtatt.
 
-*Sak 9:* Styrets innstillig var at kontigenten for neste periode fortsetter å være på kr 0,-.  Vedtatt.
+*Sak 9:* Styrets innstilling var at kontigenten for neste periode fortsetter å være på kr 0,-.  Vedtatt.
 
-*Sak 10:* Den [foreslåtte justeringen](https://github.com/gisle/fibertilalle.no/pull/1) i vedtektene ble presentert av Gisle Aas.  Etter en kort diskusjon ble den vedtatt, med tillegg om at tiden styret velges til også ble statt til 3 år.
+*Sak 10:* Den [foreslåtte justeringen](https://github.com/gisle/fibertilalle.no/pull/1) i vedtektene ble presentert av Gisle Aas.
+Den eneste vesentlige endringer var at vi bytter ut bestemmelsen om at årsmøtet avholdes i oktober hvert år, med at det åpnes opp for at det kan gå opp til 3 år mellom hvert årsmøte.
+Etter en kort diskusjon ble den vedtatt, med tillegg om at tiden medlemmer til styret velges til også ble satt til 3 år.
 
-*Sak 11:*
+*Sak 11:* Det ble opplyst om at Arne Olsen og Gisle Aas ønsker å fratre som medlemmer av styret.  Valgkomitéen var representert med Kristian Tindvik Sletten og de hadde funnet én kandidat til å supplere styret; Øyvind Hjortland.  Øyvind ble valgt inn i styret med akklamasjon.
 
-*Sak 12:* Valgkomitee Kristian.
+*Sak 12:* Årsmøtet oppfordret Kristian Tindvik Sletten til også å stille som valgkomité til neste årsmøte, noe som han sa seg villig til å gjøre.

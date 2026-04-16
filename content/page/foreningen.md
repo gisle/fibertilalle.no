@@ -30,18 +30,17 @@ Foreningens styre har følgende sammensetning.
 
 #### Leder og nestleder:
 
+* Henning Waage, Myrdalskogen 139, tlf 900 17 625
 * Eivind Lowzow, Myrdalskogen 226, tlf 404 29 897
-* Arne Olsen, Myrdalskogen 135, tlf 909 19 586
 
 #### Styremedlemmer:
 
-* Henning Waage, Myrdalskogen 139, tlf 900 17 625
 * Roald Osland, Hallskaret 22, tlf 945 24 528
-* Gisle Aas, Myrdalskogen 261 J, tlf 932 41 450
+* Øyvind Hjortland, Myrdalskogen 359, tlf 414 69 085
 
 ## Årsmøter
 
 * [Første årsmøte ble avholdt den 22. oktober 2019]({{< ref "aarsmote-2019.md" >}}).
 * [Andre årsmøte ble avholdt den 12. desember 2022]({{< ref "aarsmote-2022.md" >}}).
 * [Tredje årsmøte ble avholdt den 14. desember 2023]({{< ref "aarsmote-2023.md" >}}).
-* [Fjerde årsmøte blir avholdt den 13. april 2026]({{< ref "aarsmote-2026.md" >}}).
+* [Fjerde årsmøte ble avholdt den 13. april 2026]({{< ref "aarsmote-2026.md" >}}).

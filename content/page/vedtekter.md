@@ -1,6 +1,6 @@
 ---
 title: "Vedtekter"
-date: 2018-09-06T21:14:10+02:00
+date: 2026-03-09
 ---
 
 ## § 1	Foreningens navn
@@ -20,9 +20,9 @@ For å kunne bli medlem, må man være tilknyttet fiberanlegget og man må betal
 
 Den som eier en bolig som er knyttet til fiberanlegget er automatisk medlem – ett medlemskap pr tilknytning og maksimum ett medlemskap pr bolig.
 
-For å være medlem, må husstandens husvære være knyttet til kabelanlegget eiet av foreningen og betale kontingent fastsatt av interimsstyre/styret/årsmøtet.
+For å være medlem, må husstandens husvære være knyttet til kabelanlegget eiet av foreningen og betale kontingent fastsatt av styret/årsmøtet.
 
-Interimsstyret/styret/årsmøtet fastsetter tilknytningsavgift og godkjenner nye medlemmer som ikke var tilknyttet på byggetidspunktet for nettet.
+Styret/årsmøtet fastsetter tilknytningsavgift og godkjenner nye medlemmer som ikke var tilknyttet på byggetidspunktet for nettet.
 
 For å kunne motta tjenester over fiberanlegget må medlemmet betale fastsatt kontingent.
 
@@ -44,8 +44,10 @@ Tillitsvalgte skal ikke motta honorarer eller annet fra tjenestetilbydere. Årsm
 
 ## § 8	Årsmøte
 
-Årsmøtet, som holdes hvert år i oktober måned (første årsmøte i foreningen holdes 3 eller 6 måneder etter at driftsfase for anlegget er inntrådt), er foreningens høyeste myndighet.
+Årsmøtet er foreningens høyeste myndighet.
 Årsmøtet innkalles av styret med minst 1 måneds varsel, direkte til medlemmene og/eller ved kunngjøring i pressen. Forslag som skal behandles på årsmøtet skal være sendt til styret senest to uker før årsmøtet. Fullstendig saksliste og saksdokumenter må være tilgjengelig for medlemmene senest en uke før årsmøtet. Saksliste og dokumenter kan gjøres tilgjengelig elektronisk.
+
+Styret er ansvarlig for at det ikke går mer enn tre år mellom hver gang årsmøtet avholdes.
 
 Alle medlemmer har adgang til årsmøtet.  Styret kan invitere andre personer til å være til stede.
 
@@ -93,7 +95,7 @@ Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er
 
 Foreningen ledes av et styre på 5 (inklusiv leder) medlemmer. Minimum tre styremedlemmer leder inkludert må man være medlem av foreningen. To av medlemmene kan være eksterne herunder styreleder.
 
-Styret er høyeste myndighet mellom årsmøtene. Styret sitter i to år. Styreleder og nestleder velges av årsmøtet. Årsmøtet velger to varamedlemmer til styret.
+Styret er høyeste myndighet mellom årsmøtene. Styret sitter i tre år. Styreleder og nestleder velges av årsmøtet. Årsmøtet velger to varamedlemmer til styret.
 
 Styret skal:
 

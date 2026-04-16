@@ -12,7 +12,7 @@ date: 2026-04-16
 3. Valg av referent(er)
 4. Valg av protokollunderskrivere
 5. Årsberetning
-6. Regnskap ([2023–2025](/arsmote-2026/resultat_og_balanse_2025.pdf))
+6. Regnskap
 7. Budsjett
 8. Styrehonorar
 9. Kontingent for 2026
@@ -35,7 +35,7 @@ Henning Waage og Arne Olsen talte opp og registrerte hvilke husstander/medlemmer
 
 *Sak 5:* Arne Olsen leste gjennom årsberetningen.  Små justeringer i teksten underveis.
 
-*Sak 6:* Eivind Lowzow gikk gjennom regnskapet 2025. Ingen justeringer. Ingen innvendinger.
+*Sak 6:* Eivind Lowzow gikk gjennom [regnskapet for 2025](/arsmote-2026/resultat_og_balanse_2025.pdf). Ingen justeringer. Ingen innvendinger.
 
 *Sak 8:* Styrets honorar ble foreslått å være kr 0,-.  Vedtatt.
 

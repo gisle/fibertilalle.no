@@ -33,7 +33,7 @@ Henning Waage og Arne Olsen talte opp og registrerte hvilke husstander/medlemmer
 
 *Sak 4:* Kristian Tindvik Sletten og Jan Røshol meldte seg som protokollunderskrivere.
 
-*Sak 5:* Arne Olsen leste gjennom [årsberetningen](/arsmote-2026/arsberetning_2026.pdf).  Små justeringer i teksten underveis.
+*Sak 5:* Arne Olsen leste gjennom [årsberetningen](/arsmote-2026/arsberetning_2025.pdf).  Små justeringer i teksten underveis.
 
 *Sak 6:* Eivind Lowzow gikk gjennom [regnskapet for 2025](/arsmote-2026/resultat_og_balanse_2025.pdf). Ingen innvendinger.
 
